@@ -1,0 +1,17 @@
+h1 {
+  color:maroon;
+  text-align: center;
+  text-decoration:underline;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+ 
+}
+form {
+border: double;
+padding: 15px;
+background-color:lavender;
+font-weight: bolder
+}
+p{
+  font-size: large;
+ font-family:Verdana;
+}

@@ -1,0 +1,7 @@
+#I am creating this simple registration form by using react js.
+#Inorder to make this Registration form as Resbonsive i am using external cascading style sheet.
+and appplied specific properties where each tag is mentioned.
+#At the result we have to enter the some details like starting name and last name,E-mail etc.
+#In the email part the input is given in the form of email type.
+#In the password part the input is given in the form of text and the confirmation password is given in the form of password(input type).
+#after pressing the register button it shoes "Thank you for your Registration". 
